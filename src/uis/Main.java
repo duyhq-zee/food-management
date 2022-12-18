@@ -13,7 +13,7 @@ import java.util.UUID;
 
 public class Main {
     public static void main(String[] args) {
-        System.out.println("FOOD MANAGEMENT APP");
+        System.out.println("ZEE'S FOOD MANAGEMENT APP");
         DataUtils.fetchFridgeData();
         Scanner sc = new Scanner(System.in);
         String choice = "";
